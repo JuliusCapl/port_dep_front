@@ -1,8 +1,8 @@
 import React from "react";
 import "./Projects.css";
-import proyecto1 from "../../assets/img/proyecto1.jpg";
-import proyecto2 from "../../assets/img/proyecto2.jpg";
-import proyecto3 from "../../assets/img/proyecto3.jpg";
+// import proyecto1 from "../../assets/img/proyecto1.jpg";
+// import proyecto2 from "../../assets/img/proyecto2.jpg";
+// import proyecto3 from "../../assets/img/proyecto3.jpg";
 
 
 const Projects = () => {
