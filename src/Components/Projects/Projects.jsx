@@ -11,7 +11,7 @@ const Projects = () => {
       <div className="container projects--div">
         <div className="project--text my-5 text-center d-flex justify-content-center align-items-center">
           <h3 className="mx-md-5 colorffffff">
-            Hey There!! have a look of my Projects
+            Here should be links to me best projects. Well, hopefully in th future.
           </h3>
         </div>
         <div className="container projects--carousel my-5">
