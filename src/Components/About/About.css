@@ -16,7 +16,7 @@
 .about--img {
     width: 100vw;
     overflow: hidden;
-    margin: auto;
+    padding: inherit;
 }
 .about--img > img {
     height: 80vh;
