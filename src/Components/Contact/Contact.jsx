@@ -15,7 +15,7 @@ const Contact = () => {
           alert('Your message was sent successfully')
           let email = (e.target.email.value),
               message = (e.target.message.value)
-          axios.post('http://localhost:4000/contact',{
+          axios.post('https://portfolio-production-0342.up.railway.app/contact',{
             email,
             message
           })
