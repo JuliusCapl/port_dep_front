@@ -10,7 +10,7 @@ const About = () => {
           <h3 className="mb-4">A little about me...</h3>
           <p>
           Hey There!! My name is Julio Capdevilla and I am new in the industry, I'm trying to learn every day something new.<br></br>
-          This is my first portfolio and, in this section, it should say some cool things about me. but I am not cool. I have some knowledge in the technologies below: Javascript, NodeJS, MongoDB, PostgreSQL, ReactJS.<br></br>
+          This is my first portfolio. In this section, it should say some cool things about me, but I am not cool. I have some knowledge in the technologies below: Javascript, NodeJS, MongoDB, PostgreSQL, ReactJS.<br></br>
           Soon you will be able to see in the section "Projects" some of the thing that I have been working on, and if you have any comment about anything in my portfolio you can write me whatever you want in the section "Contact".
           By the way the guy in the picture is not me.
           </p>
